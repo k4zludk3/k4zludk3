@@ -72,20 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=k4zludk3&show_icons=true&theme=radical" alt="Lucas' GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4zludk3&layout=compact&theme=radical" alt="Top Langs" height="165" />
-</p>
-
-## 📊 GitHub Stats
-
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=k4zludk3&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4zludk3&layout=compact&theme=radical)
-
----
-
 ## 🎯 Current Focus
 
 - Building **high-quality Salesforce packages and integrations**
