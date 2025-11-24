@@ -8,11 +8,13 @@
 
 - 🧠 Senior Salesforce Developer with **6+ years** of experience.
 - 💙 Passionate about **programming languages**, **Apex**, **LWC**, **integrations** and **Salesforce Industries / OmniStudio**.
+- 🚀 Always learning, always shipping.
 - 🎯 Currently focused on:
   - Studying to become a **Salesforce Architect** (deeper architecture, integrations & governance)
   - Exploring **Agentforce / AI + Salesforce** to build smarter automations and assistants
   - Experimenting with **blockchain development** and smart contracts
-- 🚀 Always learning, always shipping.
+  - Contributing to **open-source / sample Salesforce projects**
+  - Improving my **spoken English** and communication for global teams
 
 ---
 
@@ -40,6 +42,7 @@
 ![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Experience Cloud](https://img.shields.io/badge/Experience%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Marketing Cloud](https://img.shields.io/badge/Marketing%20Cloud-009EDB?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **Backend / Integrations**
 
@@ -67,13 +70,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SFDX](https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-- Building **high-quality Salesforce packages and integrations**
-- Contributing to **open-source / sample Salesforce projects**
-- Improving my **spoken English** and communication for global teams
-
-Thanks for stopping by! 🙌
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
