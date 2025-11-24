@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi, I'm Lucas Duque 👋</h1>
-<h3 align="center">Senior Salesforce Developer | Apex & OmniStudio Specialist | 7x Salesforce Certified</h3>
+<h3 align="center">Senior Salesforce Developer | Apex & Integrations Specialist, Triggers, LWC | </h3>
 
 ---
 
@@ -8,11 +8,10 @@
 
 - 🧠 Senior Salesforce Developer with **6+ years** of experience.
 - 💙 Passionate about **programming languages**, **Apex**, **LWC**, **integrations** and **Salesforce Industries / OmniStudio**.
-- 🌍 Experienced with remote work for Brazilian and international clients.
 - 🎯 Currently focused on:
-  - Designing **scalable backend architectures** on Salesforce
-  - Building **OmniStudio solutions** (OmniScripts, DataRaptors, Integration Procedures, FlexCards)
-  - Improving my **English fluency** every day
+  - Studying to become a **Salesforce Architect** (deeper architecture, integrations & governance)
+  - Exploring **Agentforce / AI + Salesforce** to build smarter automations and assistants
+  - Experimenting with **blockchain development** and smart contracts
 - 🚀 Always learning, always shipping.
 
 ---
@@ -23,12 +22,14 @@
   <a href="https://www.linkedin.com/in/lucasduque97/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lucasduque@gmail.com">
+  <a href="mailto:casluquedu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
+
+## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
@@ -48,6 +49,13 @@
 ![SOAP](https://img.shields.io/badge/SOAP-0B5FFF?style=for-the-badge&logo=wso2&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=000)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Frontend**
 
@@ -70,6 +78,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=k4zludk3&show_icons=true&theme=radical" alt="Lucas' GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4zludk3&layout=compact&theme=radical" alt="Top Langs" height="165" />
 </p>
+
+## 📊 GitHub Stats
+
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=k4zludk3&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4zludk3&layout=compact&theme=radical)
 
 ---
 
