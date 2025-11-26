@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi, I'm Lucas Duque 👋</h1>
-<h3 align="center">Senior Salesforce Developer | Apex & Integrations Specialist, Triggers, LWC | </h3>
+<h3 align="center">Senior Salesforce Developer | Apex & Integrations Specialist, Triggers, LWC, OmniStudio </h3>
 
 ---
 
