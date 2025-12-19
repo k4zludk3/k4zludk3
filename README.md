@@ -4,33 +4,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🧠 Senior Salesforce Developer with **6+ years** of experience.
-- 💙 Passionate about **programming languages**, **Apex**, **LWC**, **integrations** and **Salesforce Industries / OmniStudio**.
-- 🚀 Always learning, always shipping.
-- 🎯 Currently focused on:
-  - Studying to become a **Salesforce Architect** (deeper architecture, integrations & governance)
-  - Exploring **Agentforce / AI + Salesforce** to build smarter automations and assistants
-  - Experimenting with **blockchain development** and smart contracts
-  - Contributing to **open-source / sample Salesforce projects**
-  - Improving my **spoken English** and communication for global teams
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasduque97/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:caslu.quedu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 **Salesforce & Cloud**
@@ -63,6 +36,37 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 👨‍💻 About Me
+
+- 🧠 Senior Salesforce Developer with **6+ years** of experience.
+- 💙 Passionate about **programming languages**, **Apex**, **LWC**, **integrations** and **Salesforce Industries / OmniStudio**.
+- 🚀 Always learning, always shipping.
+- 🎯 Currently focused on:
+  - Studying to become a **Salesforce Architect** (deeper architecture, integrations & governance)
+  - Exploring **Agentforce / AI + Salesforce** to build smarter automations and assistants
+  - Experimenting with **blockchain development** and smart contracts
+  - Contributing to **open-source / sample Salesforce projects**
+  - Improving my **spoken English** and communication for global teams
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucasduque97/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:caslu.quedu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+
 
 **DevOps & Tools**
 
